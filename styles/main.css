@@ -164,6 +164,12 @@ color: white;
    grid-row: 13;
 }
 
+.bloc_6{
+    background-color: #66c2ff;
+  grid-column: 3;
+   grid-row: 11;
+}
+
 .line_1{
   background-color: #c69f6c;
   max-width: 2px;
