@@ -219,7 +219,7 @@ color: white;
     font-size : 5em;
     }
     h2 {
-      font-size : 2em;
+      font-size : 3em;
     }
     .laurie{
       top: 6em;
@@ -284,4 +284,9 @@ color: white;
 
 a {
   text-decoration: none;
+}
+
+a :hover {
+  color: tan;
+  transition: 0.3s;
 }
