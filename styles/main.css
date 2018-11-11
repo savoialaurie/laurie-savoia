@@ -125,6 +125,19 @@ align-self: center;
 z-index: 1;
 }
 
+.footer{
+  grid-column: 1 / 9;
+   grid-row: 19 / 20;
+   display: flex;
+   justify-content: center;
+  background-color: #e2cfb6;
+  margin: 0;
+}
+
+.footer img{
+  max-width: 25px;
+  margin: 2em;
+}
 
 .bloc_2{
   background-color: #66c2ff;
