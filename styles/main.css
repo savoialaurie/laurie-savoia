@@ -373,7 +373,7 @@ h3 {
   }
   /*works*/
   h3 {
-    font-size: 4em;
+    font-size: 5em;
   }
   .titre2 {
     top: 0;
@@ -457,7 +457,7 @@ h3 {
 @media screen and (min-width: 640px) {
   /*index*/
   h1 {
-    font-size: 8em;
+    font-size: 9em;
   }
   h2 {
     font-size: 4em;
